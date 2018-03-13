@@ -1,0 +1,22 @@
+{
+  "name": "tg-bot",
+  "version": "1.0.0",
+  "description": "my tg bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaofinger/tg-bot.git"
+  },
+  "author": "zhaofinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaofinger/tg-bot/issues"
+  },
+  "homepage": "https://github.com/zhaofinger/tg-bot#readme",
+  "dependencies": {
+    "telegraf": "^3.19.0"
+  }
+}
