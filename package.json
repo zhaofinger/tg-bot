@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zhaofinger/tg-bot#readme",
   "dependencies": {
+    "node-schedule": "^1.3.0",
     "telegraf": "^3.19.0"
   }
 }
